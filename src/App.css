@@ -924,6 +924,22 @@ strong,
     padding-inline: 10px;
   }
 
+  .section-desc,
+  .intro-sub {
+    font-size: 14.5px;
+    line-height: 1.65;
+  }
+
+  .step-text {
+    font-size: 14px;
+    line-height: 1.58;
+  }
+
+  .q-text {
+    font-size: 15px;
+    line-height: 1.62;
+  }
+
   .rating-btn {
     height: 40px;
   }
