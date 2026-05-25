@@ -230,13 +230,13 @@ function IntroScreen({ onStart }: { onStart: () => void }) {
       <SectionHeader
         pill="WELCOME"
         title="Character & Temperament Blend Inventory"
-        desc="A self-scoring assessment for pupil growth and leadership reflection"
+        desc="A self-scoring assessment for leader growth and leadership reflection"
       />
       <div className="intro-body">
         <div className="intro-icon" aria-hidden="true">✦</div>
         <h1 className="intro-title">Discover How<br />You Lead & Learn</h1>
         <p className="intro-sub">
-          This assessment helps pupils understand their natural personality tendencies, how they relate to others,
+          This assessment helps leaders understand their natural personality tendencies, how they relate to others,
           and how they can grow as future-ready Role Models.
         </p>
 
